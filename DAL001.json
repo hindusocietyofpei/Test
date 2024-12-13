@@ -1,7 +1,11 @@
 {
     "user": {
       "id": 12345,
+<<<<<<< HEAD
+      "name": "Barat Singh is changing from development branch",
+=======
       "name": "John Doe",
+>>>>>>> parent of f5e2d7b (taging to 1.1.0)
       "email": "john.doe@example.com",
       "active": true,
       "preferences": {
