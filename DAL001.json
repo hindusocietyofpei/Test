@@ -1,0 +1,71 @@
+{
+    "user": {
+      "id": 12345,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "active": true,
+      "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "A001",
+        "date": "2024-12-12",
+        "items": [
+          {
+            "product_id": "P001",
+            "name": "Laptop",
+            "quantity": 1,
+            "price": 899.99
+          },
+          {
+            "product_id": "P002",
+            "name": "Mouse",
+            "quantity": 2,
+            "price": 19.99
+          }
+        ],
+        "total": 939.97
+      },
+      {
+        "order_id": "A002",
+        "date": "2024-12-10",
+        "items": [
+          {
+            "product_id": "P003",
+            "name": "Keyboard",
+            "quantity": 1,
+            "price": 49.99
+          }
+        ],
+        "total": 49.99
+      }
+    ],
+    "address": {
+      "street": "123 Main St",
+      "city": "Somewhere",
+      "state": "NY",
+      "postal_code": "10001",
+      "country": "USA"
+    },
+    "friends": [
+      {
+        "id": 6789,
+        "name": "Jane Smith",
+        "status": "active"
+      },
+      {
+        "id": 9876,
+        "name": "Alice Brown",
+        "status": "inactive"
+      }
+    ],
+    "meta": {
+      "timestamp": "2024-12-12T15:30:00Z",
+      "version": "1.0.0"
+    }
+  }
+  
