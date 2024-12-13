@@ -1,7 +1,7 @@
 {
     "user": {
       "id": 12345,
-      "name": "Barat Singh",
+      "name": "Barat Singh is upading from CLI",
       "email": "john.doe@example.com",
       "active": true,
       "preferences": {
