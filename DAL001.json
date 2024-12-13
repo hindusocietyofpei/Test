@@ -1,7 +1,7 @@
 {
     "user": {
       "id": 12345,
-      "name": "John Doe",
+      "name": "Version 22.11",
       "email": "john.doe@example.com",
       "active": true,
       "preferences": {
